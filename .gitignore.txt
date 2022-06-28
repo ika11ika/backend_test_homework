@@ -1,1 +1,5 @@
 # backend_test_homework
+/venv
+/.vscode
+/__pycache__
+/.mypy_cache
